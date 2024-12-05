@@ -1,0 +1,14 @@
+C:\Users\Egzamin\source\repos\egzamin0512\bin\Debug\net6.0\egzamin0512.exe
+C:\Users\Egzamin\source\repos\egzamin0512\bin\Debug\net6.0\egzamin0512.deps.json
+C:\Users\Egzamin\source\repos\egzamin0512\bin\Debug\net6.0\egzamin0512.runtimeconfig.json
+C:\Users\Egzamin\source\repos\egzamin0512\bin\Debug\net6.0\egzamin0512.dll
+C:\Users\Egzamin\source\repos\egzamin0512\bin\Debug\net6.0\egzamin0512.pdb
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\egzamin0512.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\egzamin0512.AssemblyInfoInputs.cache
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\egzamin0512.AssemblyInfo.cs
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\egzamin0512.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\egzamin0512.dll
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\refint\egzamin0512.dll
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\egzamin0512.pdb
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\egzamin0512.genruntimeconfig.cache
+C:\Users\Egzamin\source\repos\egzamin0512\obj\Debug\net6.0\ref\egzamin0512.dll
